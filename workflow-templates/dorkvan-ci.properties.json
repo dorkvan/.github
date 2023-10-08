@@ -1,0 +1,14 @@
+{
+	"name": "Dorkvan Organization Workflow",
+	"description": "Dorkvan Organization CI starter workflow.",
+	"iconName": "hubot",
+	"categories": [
+		"continuous-integration"
+	],
+	"filePatterns": [
+		"composer.json$",
+		"package.json$",
+		"^Dockerfile",
+		".*\\.md$"
+	]
+}
